@@ -1,0 +1,1 @@
+# wingwingcoin-assets
