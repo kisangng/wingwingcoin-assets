@@ -3,17 +3,16 @@
   "symbol": "WWG",
   "description": "Wingwing Coin (WWG) is a decentralized Solana-based token.",
   "image": "https://raw.githubusercontent.com/kisangng/wingwingcoin-assets/main/your-logo-url.png",
-  "extensions": {
-    "website": "https://wingwingcoin.com"
-  },
+  "seller_fee_basis_points": 0,
+  "external_url": "https://wingwingcoin.com",
+  "attributes": [],
   "properties": {
-    "category": "image",
     "files": [
       {
         "uri": "https://raw.githubusercontent.com/kisangng/wingwingcoin-assets/main/your-logo-url.png",
         "type": "image/png"
       }
-    ]
+    ],
+    "category": "image"
   }
 }
-
